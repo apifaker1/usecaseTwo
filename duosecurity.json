@@ -26,6 +26,31 @@
     },
     {
         "AgentX_win": {
+            "timestamp": "2024-04-25T02:16:44.648+0000",
+            "agent": {
+                "id": "0363",
+                "name": "KUSHAL DHAKAL",
+                "ip": "10.163.2.12",
+                "labels": {
+                    "os_name": "KUSHAL OS",
+                    "event_source": "Duo-Security-Auth-Proxy"
+                }
+            },
+            "manager": {
+                "name": "agentx-server"
+            },
+            "id": "1713961004.0",
+            "cluster": {
+                "name": "logpoint_cluster7655",
+                "node": "10.163.205.166"
+            },
+            "full_log": "2024-04-24T14:16:43.318049+0200 [duoauthproxy.lib.log#info] Received new request id 135 from ('10.163.125.60', 46438)",
+            "decoder": {},
+            "location": "\\Program Files\\Duo Security Authentication Proxy\\log\\authproxy.log"
+        }
+    },
+    {
+        "AgentX_win": {
             "timestamp": "2024-04-24T12:16:32.635+0000",
             "agent": {
                 "id": "036",
