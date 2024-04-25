@@ -1,0 +1,127 @@
+[
+    {
+        "AgentX_win": {
+            "timestamp": "2024-04-24T12:16:44.648+0000",
+            "agent": {
+                "id": "036",
+                "name": "w600pp012",
+                "ip": "10.163.125.12",
+                "labels": {
+                    "os_name": "windows",
+                    "event_source": "Duo-Security-Auth-Proxy"
+                }
+            },
+            "manager": {
+                "name": "agentx-server"
+            },
+            "id": "1713961004.0",
+            "cluster": {
+                "name": "logpoint_cluster7655",
+                "node": "10.163.205.166"
+            },
+            "full_log": "2024-04-24T14:16:43.318049+0200 [duoauthproxy.lib.log#info] Received new request id 135 from ('10.163.125.60', 46438)",
+            "decoder": {},
+            "location": "\\Program Files\\Duo Security Authentication Proxy\\log\\authproxy.log"
+        }
+    },
+    {
+        "AgentX_win": {
+            "timestamp": "2024-04-24T12:16:32.635+0000",
+            "agent": {
+                "id": "036",
+                "name": "w600pp012",
+                "ip": "10.163.125.12",
+                "labels": {
+                    "os_name": "windows",
+                    "event_source": "Duo-Security-Auth-Proxy"
+                }
+            },
+            "manager": {
+                "name": "agentx-server"
+            },
+            "id": "1713960992.0",
+            "cluster": {
+                "name": "logpoint_cluster7655",
+                "node": "10.163.205.166"
+            },
+            "full_log": "2024-04-24T14:16:31.571733+0200 [duoauthproxy.lib.http._ConnectProxyClientFactory#info] Stopping factory <duoauthproxy.lib.http._ConnectProxyClientFactory object at 0x000002827D8BCB50>",
+            "decoder": {},
+            "location": "\\Program Files\\Duo Security Authentication Proxy\\log\\authproxy.log"
+        }
+    },
+    {
+        "AgentX_win": {
+            "timestamp": "2024-04-24T12:16:56.738+0000",
+            "agent": {
+                "id": "032",
+                "name": "w200pp023",
+                "ip": "10.163.117.23",
+                "labels": {
+                    "os_name": "windows",
+                    "event_source": "Duo-Security-Auth-Proxy"
+                }
+            },
+            "manager": {
+                "name": "agentx-server"
+            },
+            "id": "1713961016.0",
+            "cluster": {
+                "name": "logpoint_cluster7655",
+                "node": "10.163.205.166"
+            },
+            "full_log": "2024-04-24T14:16:55.863898+0200 [duoauthproxy.lib.log#info] Sending request from 10.163.117.60 to radius_server_auto",
+            "decoder": {},
+            "location": "\\Program Files\\Duo Security Authentication Proxy\\log\\authproxy.log"
+        }
+    },
+    {
+        "AgentX_win": {
+            "timestamp": "2024-04-24T12:17:16.380+0000",
+            "agent": {
+                "id": "034",
+                "name": "w800pp023",
+                "ip": "10.163.109.23",
+                "labels": {
+                    "os_name": "windows",
+                    "event_source": "Duo-Security-Auth-Proxy"
+                }
+            },
+            "manager": {
+                "name": "agentx-server"
+            },
+            "id": "1713961036.0",
+            "cluster": {
+                "name": "logpoint_cluster7655",
+                "node": "10.163.205.166"
+            },
+            "full_log": "2024-04-24T14:17:14.531584+0200 [duoauthproxy.lib.http._DuoHTTPClientFactory#info] Starting factory <_DuoHTTPClientFactory: b'https://api-b309aab8.duosecurity.com:443/rest/v1/preauth'>",
+            "decoder": {},
+            "location": "\\Program Files\\Duo Security Authentication Proxy\\log\\authproxy.log"
+        }
+    },
+    {
+        "AgentX_win": {
+            "timestamp": "2024-04-24T12:15:58.534+0000",
+            "agent": {
+                "id": "036",
+                "name": "w600pp012",
+                "ip": "10.163.125.12",
+                "labels": {
+                    "os_name": "windows",
+                    "event_source": "Duo-Security-Auth-Proxy"
+                }
+            },
+            "manager": {
+                "name": "agentx-server"
+            },
+            "id": "1713960958.0",
+            "cluster": {
+                "name": "logpoint_cluster7655",
+                "node": "10.163.205.166"
+            },
+            "full_log": "2024-04-24T14:15:58.322015+0200 [duoauthproxy.lib.log#info] Sending request from 10.163.125.60 to radius_server_iframe",
+            "decoder": {},
+            "location": "\\Program Files\\Duo Security Authentication Proxy\\log\\authproxy.log"
+        }
+    }
+]
